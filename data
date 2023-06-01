@@ -2,7 +2,7 @@
 	"name": "Josefina Müller",
 	"face": "https://picsum.photos/id/513/200/300",
 	"collection": "Platos",
-	"photocollection": "https://picsum.photos/id/488/200/300",
+	"photocollection": ["https://picsum.photos/id/488/200/300","https://picsum.photos/id/488/200/300","https://picsum.photos/id/488/200/300"]
 	"animal": "Jirafa",
 	"photoanimal": "https://picsum.photos/id/837/200/300",
 	"hobby": "cartas",
