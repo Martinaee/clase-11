@@ -1,0 +1,41 @@
+[
+{
+  "name": "Josefina Müller",
+  "face": "https://picsum.photos/id/513/200/300",
+  "collection": "Platos",
+  "photo collection":"https://picsum.photos/id/488/200/300",
+  "animal": "Jirafa",
+  "photo animal": "https://picsum.photos/id/837/200/300",
+  "hobby": "cartas",
+  "description": "Josefina, tiene 85 años y vive sola. Es amante de las colecciones, tiene un muro lleno de platos que ha conseguido a lo largo de su vida, toda su casa repleta de suculentas y una amplia colección de su animal favorito, la jirafa. Antes de su cambio de casa tenía muchas otras colecciones, como de fuegos, lápices y llaveros. Además, su pasión es jugar a las  cartas",
+  "phrase": "Hay que jugar calladito para que nadie sepa tu estrategia",
+  "tags":"jugadora de cartas, loza, independiente, coleccionista, objetos antiguos, amante de las jirafas"
+  
+}
+  {
+  "name": "María Rodríguez",
+  "face": "https://picsum.photos/id/513/200/300",
+  "collection": "tazas",
+  "photo collection":"https://picsum.photos/id/488/200/300",
+  "animal": "gato",
+  "photo animal": "https://picsum.photos/id/837/200/300",
+  "hobby": "jardineria",
+  "description": "María vive con su hija....",
+  "phrase": "Todas mañosas, si las riegas mucho se ahogan y si no se secan",
+  "tags":"jardinera, gatos, dependiente, tazas, loza"
+  
+}
+{
+  "name": "Flavia Leoz",
+  "face": "https://picsum.photos/id/513/200/300",
+  "collection": "Chalecos",
+  "photo collection":"https://picsum.photos/id/488/200/300",
+  "animal": "Oveja",
+  "photo animal": "https://picsum.photos/id/837/200/300",
+  "hobby": "costura",
+  "description": "Flavia ............",
+  "phrase": "Hilando memorias",
+  "tags":"costura, ovejas, campo"
+  
+}
+  ]
