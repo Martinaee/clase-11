@@ -34,4 +34,30 @@
 	"phrase": "Hilando memorias",
 	"tags": "costura, ovejas, campo"
 
+},
+ {
+	"name": "María Rodríguez",
+	"face": "https://picsum.photos/id/669/200/300",
+	"collection": "tazas",
+	"photocollection": "https://picsum.photos/id/488/200/300",
+	"animal": "gato",
+	"photoanimal": "https://picsum.photos/id/837/200/300",
+	"hobby": "jardineria",
+	"description": "María vive con su hija....",
+	"phrase": "Todas mañosas, si las riegas mucho se ahogan y si no se secan",
+	"tags": "jardinera, gatos, dependiente, tazas, loza"
+
+},
+ {
+	"name": "María Rodríguez",
+	"face": "https://picsum.photos/id/669/200/300",
+	"collection": "tazas",
+	"photocollection": "https://picsum.photos/id/488/200/300",
+	"animal": "gato",
+	"photoanimal": "https://picsum.photos/id/837/200/300",
+	"hobby": "jardineria",
+	"description": "María vive con su hija....",
+	"phrase": "Todas mañosas, si las riegas mucho se ahogan y si no se secan",
+	"tags": "jardinera, gatos, dependiente, tazas, loza"
+
 }]
